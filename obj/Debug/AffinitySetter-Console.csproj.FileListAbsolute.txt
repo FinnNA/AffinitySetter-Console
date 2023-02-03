@@ -1,0 +1,6 @@
+C:\Users\Finn\source\repos\AffinitySetter-Console\AffinitySetter-Console\bin\Debug\AffinitySetter-Console.exe.config
+C:\Users\Finn\source\repos\AffinitySetter-Console\AffinitySetter-Console\bin\Debug\AffinitySetter-Console.exe
+C:\Users\Finn\source\repos\AffinitySetter-Console\AffinitySetter-Console\bin\Debug\AffinitySetter-Console.pdb
+C:\Users\Finn\source\repos\AffinitySetter-Console\AffinitySetter-Console\obj\Debug\AffinitySetter-Console.csproj.CoreCompileInputs.cache
+C:\Users\Finn\source\repos\AffinitySetter-Console\AffinitySetter-Console\obj\Debug\AffinitySetter-Console.exe
+C:\Users\Finn\source\repos\AffinitySetter-Console\AffinitySetter-Console\obj\Debug\AffinitySetter-Console.pdb
